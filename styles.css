@@ -1,0 +1,173 @@
+h1 {
+  font-weight: 700;
+  font-style: bold;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 25px;
+  font-family: "Merriweather Sans", sans-serif;
+  font-style: bold;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 15px;
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+p {
+  font-weight: 400;
+  font-style: regular;
+  font-size: 14px;
+  font-family: "Newsreader", serif;
+}
+
+.color-1 {
+  background-color: #ef476f;
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin: 20px;
+  display: inline-block;
+}
+
+.color-2 {
+  background-color: #ffd166;
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin: 20px;
+  display: inline-block;
+}
+
+.color-3 {
+  background-color: #06d6a0;
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin: 20px;
+  display: inline-block;
+}
+
+.color-4 {
+  background-color: #118ab2;
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin: 20px;
+  display: inline-block;
+}
+
+.color-5 {
+  background-color: #073b4c;
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin: 20px;
+  display: inline-block;
+}
+
+.fonts {
+  display: inline-block;
+  height: 150px;
+  width: 30%;
+  padding: 10px 0;
+  font-size: 15px;
+  line-height: 8px;
+}
+
+.newsreader {
+  font-family: "Newsreader", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.newsreader-bold {
+  font-family: "Newsreader", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: bold;
+}
+
+.newsreader-italic {
+  font-family: "Newsreader", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.newsreader-underline {
+  font-family: "Newsreader", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.source-sans {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.source-sans-bold {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: bold;
+}
+
+.source-sans-italic {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.source-sans-underline {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.merriweather-sans {
+  font-family: "Merriweather Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.merriweather-sans-bold {
+  font-family: "Merriweather Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: bold;
+}
+
+.merriweather-sans-italic {
+  font-family: "Merriweather Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.merriweather-sans-underline {
+  font-family: "Merriweather Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  text-decoration: underline;
+}
